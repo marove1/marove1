@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mattia
 
-<!--
-**marove1/marove1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building an early junior cybersecurity portfolio focused on networking, Linux, hardening, logging, and blue-team fundamentals.
 
-Here are some ideas to get you started:
+My background includes IT support, infrastructure troubleshooting, and homelab-based learning. I am currently developing my cybersecurity skills through practical labs, structured notes, and small hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- Networking fundamentals
+- Linux administration and hardening
+- Security fundamentals
+- Beginner Python for security
+- Blue-team / SOC foundations
+
+## Portfolio repositories
+- cybersecurity-notes
+- network-fundamentals-labs
+- linux-hardening-labs
+- python-for-security
+
+## Learning approach
+I use GitHub to document what I study, practice what I learn, and build small projects that show real progress over time.
+
+## Currently learning
+- TryHackMe
+- Command-line and Linux fundamentals
+- Network troubleshooting from a security perspective
+- Log analysis and detection basics
